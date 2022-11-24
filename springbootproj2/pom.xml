@@ -17,7 +17,7 @@
    <dependency>
     <groupId>org.hibernate</groupId>
     <artifactId>hibernate-core</artifactId>
-    <version>4.0.0.CR1</version>
+    <version>5.3.20.Final</version>
 </dependency>
 <!-- adding spring boot JPA starter -->
 <dependency>
